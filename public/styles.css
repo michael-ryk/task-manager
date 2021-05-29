@@ -1,0 +1,16 @@
+body {
+    background-color: #e1e5ea;
+    align-items: left;
+    color: hsl(198, 1%, 29%);
+    font-family: "Architects Daughter", cursive;
+    text-align: left;
+    font-size: 130%;
+}
+
+h1 {
+    background-color: #fdcb6e;
+    font-size: 1.5rem;  
+}
+
+/* Colors pallete: #faf3f3 #e1e5ea #a7bbc7 #da7f8f */
+
