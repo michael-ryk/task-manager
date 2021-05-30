@@ -1,15 +1,30 @@
 body {
     background-color: #e1e5ea;
-    align-items: left;
+    align-items: center;
     color: hsl(198, 1%, 29%);
     font-family: "Architects Daughter", cursive;
-    text-align: left;
+    text-align: center;
     font-size: 130%;
 }
 
 h1 {
     background-color: #fdcb6e;
     font-size: 1.5rem;  
+}
+
+
+button {
+    font-family: "Architects Daughter", cursive;
+    border-radius: 5px;
+    padding-bottom: 3px;
+}
+
+.form{
+    border-radius: 5px;
+}
+
+.ItemsList {
+    padding-bottom: 3px;
 }
 
 /* Colors pallete: #faf3f3 #e1e5ea #a7bbc7 #da7f8f */
