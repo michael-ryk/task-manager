@@ -26,7 +26,6 @@ button {
     margin: auto;
 }
 
-/* Todo: make input field spread over whole width of box */
 .form{
     box-sizing: border-box;
     box-shadow: 4px 3px 7px 2px #00000040;
@@ -34,8 +33,10 @@ button {
     padding: 10px;
 }
 
+/* Todo: understand why 100% make it escape out of form */
 .inputField{
-    width:100%
+    width:90%;
+    padding: 2px;
 }
 
 .ItemsList {
