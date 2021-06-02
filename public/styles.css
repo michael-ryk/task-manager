@@ -9,11 +9,10 @@ body {
 }
 
 h1 {
-    background-color: #fdcb6e;
+    background-color: #da7f8f;
     font-size: 1.5rem;
     border-radius: 5px;
 }
-
 
 button {
     font-family: "Architects Daughter", cursive;
@@ -50,6 +49,11 @@ button {
     padding: 10px;
     box-sizing: border-box;
     text-align: left;
+}
+
+.completeItems {
+    text-decoration: line-through;
+    color: Grey;
 }
 
 /* Colors pallete: #faf3f3 #e1e5ea #a7bbc7 #da7f8f */
