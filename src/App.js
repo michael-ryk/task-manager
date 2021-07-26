@@ -1,6 +1,7 @@
 import React, {useState} from "react";
 import ToDoItem from "./ToDoItem";
 import CompleteItem from "./CompleteItem";
+import './styles.css';
 
 function App() {
 
